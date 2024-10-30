@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blood Bank Management System</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #c0392b;
-        }
-        h2 {
-            color: #2980b9;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ccc;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Blood Bank Management System</h1>
+<h1>Blood Bank Management System</h1>
     <p><strong>Project Type:</strong> 3rd Year College Mini Project</p>
     
     <h2>Overview</h2>
@@ -71,10 +44,10 @@
     <p>Contributions are welcome! Please fork the repository and create a pull request for any improvements.</p>
 
     <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
+    <p>This project is licensed under the UnLicense.</p>
 
     <h2>Contact</h2>
-    <p>For any inquiries, please contact: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>For any inquiries, please contact: <a usaidhussain01@gmail.com">Email</a></p>
 
 </body>
 </html>
