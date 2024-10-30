@@ -1,10 +1,10 @@
 <h1>Blood Bank Management System</h1>
     <p><strong>Project Type:</strong> 3rd Year College Mini Project</p>
     
-    <h2>Overview</h2>
+<h2>Overview</h2>
     <p>This Blood Bank Management System is designed to facilitate the management of blood donations and requirements. It provides an efficient way to keep track of blood donors, recipients, and blood inventory.</p>
 
-    <h2>Features</h2>
+<h2>Features</h2>
     <ul>
         <li>Donor Registration</li>
         <li>Recipient Registration</li>
@@ -13,7 +13,7 @@
         <li>View Blood Availability</li>
     </ul>
 
-    <h2>Technologies Used</h2>
+<h2>Technologies Used</h2>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -22,7 +22,7 @@
         <li>MySQL</li>
     </ul>
 
-    <h2>Installation</h2>
+<h2>Installation</h2>
     <pre>
 1. Clone the repository:
    git clone https://github.com/your-username/blood-bank-management-system.git
