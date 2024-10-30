@@ -47,7 +47,6 @@
     <p>This project is licensed under the UnLicense.</p>
 
     <h2>Contact</h2>
-    <p>For any inquiries, please contact: <a Email">Usaidhussain01@gmail.com</a></p>
-
+    <p>For any inquiries, please contact: <a href="mailto:usaidhussain01@gmail.com">usaidhussain01@gmail.com</a>
 </body>
 </html>
